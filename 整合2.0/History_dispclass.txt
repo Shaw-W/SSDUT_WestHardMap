@@ -1,0 +1,7 @@
+LinkID:6188   岔路口数：0   description: １＝延安高架路
+LinkID:1288   岔路口数：0   description: １＝204国道
+LinkID:1293   岔路口数：0   description: １＝204国道
+LinkID:1289   岔路口数：0   description: １＝204国道
+LinkID:1290   岔路口数：0   description: １＝204国道
+LinkID:1291   岔路口数：0   description: １＝204国道
+LinkID:1292   岔路口数：0   description: １＝204国道

@@ -1,0 +1,2 @@
+LinkID为2的路:
+dispclass:4   岔路口数：0   description: １＝沪杭高速公路
